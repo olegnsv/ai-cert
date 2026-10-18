@@ -25,4 +25,4 @@ I used this app to like present differences between local and SAAS AI text model
 
 Acknowledgments
 
-* there are some 3rd pary libs (libraries, libraries).
+* there are some 3rd party libs
